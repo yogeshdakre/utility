@@ -1,0 +1,1 @@
+public class ShippingWeight {private String unitCode;public String getUnitCode() {return unitCode;}public void setUnitCode(String unitCode){this.unitCode=unitCode;}private String value;public String getValue() {return value;}public void setValue(String value){this.value=value;}}
